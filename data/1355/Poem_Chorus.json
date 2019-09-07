@@ -1,0 +1,328 @@
+{
+  "noteInfo": [
+    {
+      "measureCount": 4,
+      "startX": 135,
+      "startY": 522,
+      "noteList": [
+        {
+          "y": 778,
+          "x": 434,
+          "measure": 1,
+          "staff": 1,
+          "pitch": 40,
+          "alter": 0,
+          "type": 0.25,
+          "duration": 0.84
+        },
+        {
+          "y": 778,
+          "x": 567,
+          "measure": 1,
+          "staff": 1,
+          "pitch": 40,
+          "alter": 0,
+          "type": 0.125,
+          "duration": 0.42
+        },
+        {
+          "y": 757,
+          "x": 649,
+          "measure": 1,
+          "staff": 1,
+          "pitch": 42,
+          "alter": 0,
+          "type": 0.125,
+          "duration": 0.42
+        },
+        {
+          "y": 715,
+          "x": 732,
+          "measure": 1,
+          "staff": 1,
+          "pitch": 45,
+          "alter": 0,
+          "type": 0.25,
+          "duration": 0.84
+        },
+        {
+          "y": 756,
+          "x": 864,
+          "measure": 1,
+          "staff": 1,
+          "pitch": 42,
+          "alter": 0,
+          "type": 0.125,
+          "duration": 0.42
+        },
+        {
+          "y": 778,
+          "x": 947,
+          "measure": 1,
+          "staff": 1,
+          "pitch": 40,
+          "alter": 0,
+          "type": 0.125,
+          "duration": 0.42
+        },
+        {
+          "y": 777,
+          "x": 1082,
+          "measure": 2,
+          "staff": 1,
+          "pitch": 40,
+          "alter": 0,
+          "type": 0.75,
+          "duration": 2.52
+        },
+        {
+          "type": 0.25,
+          "measure": 2,
+          "pitch": 0,
+          "alter": 0,
+          "duration": 0.84
+        },
+        {
+          "y": 778,
+          "x": 1424,
+          "measure": 3,
+          "staff": 1,
+          "pitch": 40,
+          "alter": 0,
+          "type": 0.25,
+          "duration": 0.84
+        },
+        {
+          "y": 778,
+          "x": 1563,
+          "measure": 3,
+          "staff": 1,
+          "pitch": 40,
+          "alter": 0,
+          "type": 0.125,
+          "duration": 0.42
+        },
+        {
+          "y": 757,
+          "x": 1649,
+          "measure": 3,
+          "staff": 1,
+          "pitch": 42,
+          "alter": 0,
+          "type": 0.125,
+          "duration": 0.42
+        },
+        {
+          "y": 716,
+          "x": 1736,
+          "measure": 3,
+          "staff": 1,
+          "pitch": 45,
+          "alter": 0,
+          "type": 0.25,
+          "duration": 0.84
+        },
+        {
+          "y": 756,
+          "x": 1874,
+          "measure": 3,
+          "staff": 1,
+          "pitch": 42,
+          "alter": 0,
+          "type": 0.125,
+          "duration": 0.42
+        },
+        {
+          "y": 778,
+          "x": 1961,
+          "measure": 3,
+          "staff": 1,
+          "pitch": 40,
+          "alter": 0,
+          "type": 0.125,
+          "duration": 0.42
+        },
+        {
+          "y": 777,
+          "x": 2095,
+          "measure": 4,
+          "staff": 1,
+          "pitch": 40,
+          "alter": 0,
+          "type": 0.75,
+          "duration": 2.52
+        },
+        {
+          "type": 0.25,
+          "measure": 4,
+          "pitch": 0,
+          "duration": 0.84
+        }
+      ],
+      "beatType": 4,
+      "beats": 16,
+      "minY": 522,
+      "maxPitch": 45,
+      "minPitch": 40,
+      "lastNotePitch": 0,
+      "totalDuration": 13.44
+    },
+    {
+      "measureCount": 4,
+      "startX": 135,
+      "startY": 1109,
+      "noteList": [
+        {
+          "y": 1365,
+          "x": 332,
+          "measure": 5,
+          "staff": 1,
+          "pitch": 40,
+          "alter": 0,
+          "type": 0.375,
+          "duration": 1.26
+        },
+        {
+          "y": 1344,
+          "x": 492,
+          "measure": 5,
+          "staff": 1,
+          "pitch": 42,
+          "alter": 0,
+          "type": 0.125,
+          "duration": 0.42
+        },
+        {
+          "y": 1301,
+          "x": 607,
+          "measure": 5,
+          "staff": 1,
+          "pitch": 45,
+          "alter": 0,
+          "type": 0.5,
+          "duration": 1.68
+        },
+        {
+          "y": 1301,
+          "x": 829,
+          "measure": 6,
+          "staff": 1,
+          "pitch": 45,
+          "alter": 0,
+          "type": 0.25,
+          "duration": 0.84
+        },
+        {
+          "y": 1343,
+          "x": 962,
+          "measure": 6,
+          "staff": 1,
+          "pitch": 42,
+          "alter": 0,
+          "type": 0.125,
+          "duration": 0.42
+        },
+        {
+          "y": 1301,
+          "x": 1044,
+          "measure": 6,
+          "staff": 1,
+          "pitch": 45,
+          "alter": 0,
+          "type": 0.125,
+          "duration": 0.42
+        },
+        {
+          "y": 1280,
+          "x": 1126,
+          "measure": 6,
+          "staff": 1,
+          "pitch": 47,
+          "alter": 0,
+          "type": 0.5,
+          "duration": 1.68
+        },
+        {
+          "y": 1281,
+          "x": 1350,
+          "measure": 7,
+          "staff": 1,
+          "pitch": 47,
+          "alter": 0,
+          "type": 0.375,
+          "duration": 1.26
+        },
+        {
+          "y": 1344,
+          "x": 1529,
+          "measure": 7,
+          "staff": 1,
+          "pitch": 42,
+          "alter": 0,
+          "type": 0.125,
+          "duration": 0.42
+        },
+        {
+          "y": 1301,
+          "x": 1646,
+          "measure": 7,
+          "staff": 1,
+          "pitch": 45,
+          "alter": 0,
+          "type": 0.25,
+          "duration": 0.84
+        },
+        {
+          "y": 1343,
+          "x": 1793,
+          "measure": 7,
+          "staff": 1,
+          "pitch": 42,
+          "alter": 0,
+          "type": 0.125,
+          "duration": 0.42
+        },
+        {
+          "y": 1365,
+          "x": 1884,
+          "measure": 7,
+          "staff": 1,
+          "pitch": 40,
+          "alter": 0,
+          "type": 0.125,
+          "duration": 0.42
+        },
+        {
+          "y": 1365,
+          "x": 2020,
+          "measure": 8,
+          "staff": 1,
+          "pitch": 40,
+          "alter": 0,
+          "type": 0.75,
+          "duration": 2.52
+        },
+        {
+          "type": 0.25,
+          "measure": 8,
+          "pitch": 0,
+          "duration": 0.84
+        }
+      ],
+      "beatType": 4,
+      "beats": 16,
+      "minY": 1109,
+      "maxPitch": 47,
+      "minPitch": 40,
+      "lastNotePitch": 0,
+      "totalDuration": 13.44
+    }
+  ],
+  "pictureInfo": {
+    "marginX": 119,
+    "pictureWidth": 2480,
+    "pictureHeight": 3506,
+    "size": 170,
+    "sign": "G"
+  }
+}
